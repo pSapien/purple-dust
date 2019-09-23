@@ -1,0 +1,22 @@
+{
+    "name": "purple-dust",
+    "displayName": "purple-dust",
+    "description": "",
+    "publisher": "sapien",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Purple In The Wind",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Purple In The Wind-color-theme.json"
+            }
+        ]
+    }
+}
